@@ -1,5 +1,4 @@
-# mini-project
-my mini-projects 
+
 ![copilot2trip](https://github.com/itsVarunRahul/mini-project/assets/142666314/df20ad62-0fc6-4fb4-9bb1-55ed8f392cbe)
 ![craiyon](https://github.com/itsVarunRahul/mini-project/assets/142666314/7162c658-9cd4-4792-a1e1-c62352370aea)
 ![dalle2](https://github.com/itsVarunRahul/mini-project/assets/142666314/7f823b23-7517-454e-9022-fd481f6f1ba1)
