@@ -1,2 +1,15 @@
 # mini-project
 my mini-projects 
+![copilot2trip](https://github.com/itsVarunRahul/mini-project/assets/142666314/df20ad62-0fc6-4fb4-9bb1-55ed8f392cbe)
+![craiyon](https://github.com/itsVarunRahul/mini-project/assets/142666314/7162c658-9cd4-4792-a1e1-c62352370aea)
+![dalle2](https://github.com/itsVarunRahul/mini-project/assets/142666314/7f823b23-7517-454e-9022-fd481f6f1ba1)
+![Humata ai](https://github.com/itsVarunRahul/mini-project/assets/142666314/9eefb93d-293b-40f4-955d-8fc7328c93e6)
+![lawbotpro](https://github.com/itsVarunRahul/mini-project/assets/142666314/e8e88f6d-57bb-4ef6-93c0-6edbe58137db)
+![leiaPix](https://github.com/itsVarunRahul/mini-project/assets/142666314/663678e7-6ea6-46aa-8604-510f3291a82c)
+![leonardoai](https://github.com/itsVarunRahul/mini-project/assets/142666314/7f0f1e48-2950-4493-8866-8fd32be32cb7)
+![pexels-cottonbro-studio-6153354](https://github.com/itsVarunRahul/mini-project/assets/142666314/22eff0cb-5f18-468e-a67d-d6971283cec1)
+![runway ai](https://github.com/itsVarunRahul/mini-project/assets/142666314/62976224-f548-4aa6-b4eb-b60d53721340)
+![stablediffusion](https://github.com/itsVarunRahul/mini-project/assets/142666314/cd9d9451-baf7-46aa-88ce-3885b5d291b2)
+![blue willow](https://github.com/itsVarunRahul/mini-project/assets/142666314/78aa3863-dda9-498a-978d-f4e73afdb7db)
+![brandio](https://github.com/itsVarunRahul/mini-project/assets/142666314/122879e6-2bf8-42ac-8198-3663fdc2e7cd)
+![clipdrop](https://github.com/itsVarunRahul/mini-project/assets/142666314/0fb6015f-9234-4190-9a72-79a8de1d0f1d)
